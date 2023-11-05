@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-5G42LVGA066yKJuDiyeig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rpachallenge.com/" DesignTimeRectangle="497, 248, 300, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'INPUT 9ZrED'" FullSelectorArgument="&lt;webctrl tag='DIV' innertext='Address' /&gt;&lt;webctrl tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='DIV' innertext='Role in Company' /&gt;&lt;webctrl tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="b6c390c4-7d6d-4d2a-b50e-60f55d923363" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="69d74f8af601bc19f9e3e085d428ad7a.png" xmlns="">0nUclVws1CkaIMqA88AMqeg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
